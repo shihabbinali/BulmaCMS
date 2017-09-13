@@ -167,6 +167,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Shihabbinali\Calculator\CalculatorServiceProvider::class,
 
         /*
          * Application Service Providers...
