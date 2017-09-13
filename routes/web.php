@@ -17,4 +17,8 @@ Route::get('/', function () {
 
 Route::get('/test', function () {
     return "hello";
+})
+
+Route::get('/test1', function () {
+    return "hello1";
 });
